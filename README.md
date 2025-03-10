@@ -2,7 +2,7 @@
 - 👀 I’m interested in FullStack and DevOps
 - 🌱 I’m currently learning Django, HTML, CSS, JavaScript and AWS management.
 - 💞️ I’m looking to collaborate on Developing Small Apps
-- 📫 How to reach me. Find me on linkeding ;-)
+- 📫 How to reach me. Find me on linkedin ;-)
 
 <!---
 danilomm1/danilomm1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
